@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julio, nice to meet you!
 
-  # ABout Me:
+  # About Me:
 - 👀 Data Scientist in training, enthusiastic about how data can impact strategies, solve problems, and find new ways to do the same thing at different moments.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
