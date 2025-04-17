@@ -5,6 +5,12 @@
 🌟 **Experienced Sales & Data Science Professional** combining over 20 years in Sales Management, Trade Marketing, and Strategic Planning with Data Science skills to solve business problems and drive continuous growth.
 
 ## 💡 Technical Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-gray?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-005CA0?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 - **Programming Languages & Tools:** Python, SQL, Power BI, Metabase
 - **Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Feature Engineering, Model Evaluation
